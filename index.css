@@ -1,0 +1,222 @@
+body {
+    background-color: #DEEFE7;
+    font-size: 1.2em;
+    /*1em = 16px = 100%*/
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    padding-right: 0;
+
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    /*rem= relative em*/
+    margin-top: 80px;
+    font-family: 'Satisfy', cursive, sans-serif, monospace;
+    color: #66BFBF;
+    line-height: 2;
+
+}
+
+.myself {
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'Raleway', sans-serif;
+    margin-left: -2%;
+    color: #262626;
+
+}
+
+.cloud1 {
+    position: absolute;
+    left: 25%;
+    top: 36%;
+
+}
+
+.cloud2 {
+    position: absolute;
+    right: 19%;
+    top: 2%;
+}
+
+.me-img {
+    border-radius: 100%;
+    width: 250px;
+    height: 250px;
+    margin-left: 40%;
+    border-style: solid;
+    border-color: #11999E;
+    border-width: 6px;
+
+}
+
+.profile {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.hello {
+    position: relative;
+    top: 25rem;
+}
+
+hr {
+
+    width: 10%;
+    border-style: dotted;
+    border-left: none;
+    border-bottom: none;
+    border-right: none;
+    color: beige;
+    border-top-width: 5px;
+
+
+}
+
+.student {
+    font-size: 1.5rem;
+    text-align: center;
+    color: #66BFBF;
+}
+
+h3 {
+    color: #11999E;
+    font-weight: bolder;
+    font-family: 'Raleway', sans-serif;
+}
+
+.data-img {
+    width: 12.625rem;
+    height: 12.625rem;
+
+}
+
+.manage-img {
+    width: 12.625rem;
+    height: 13.625rem;
+    float: right;
+
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.code-skill {
+    float: right;
+    font-size: 1.5rem;
+    font-family: 'Raleway', sans-serif;
+    margin-left: -2%;
+    color: #262626;
+    line-height: 2;
+
+}
+
+.manage-skill {
+    font-size: 1.5rem;
+    font-family: 'Raleway', sans-serif;
+    margin-left: -2%;
+    color: #262626;
+    line-height: 2;
+
+}
+
+.management {
+    margin: 0 10% 0 10%;
+    padding-left: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.skill-soft {
+    margin: 0 10% 0 10%;
+    padding-left: 5%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+
+}
+
+.contact-me {
+    padding-top: 3%;
+    padding-bottom: 10%;
+}
+
+
+
+.btn {
+    margin-top: 60%;
+    margin-left: 43.5%;
+    background: #66BFBF;
+    background-image: -webkit-linear-gradient(top, #66BFBF, #159A9C);
+    background-image: -moz-linear-gradient(top, #66BFBF, #159A9C);
+    background-image: -ms-linear-gradient(top, #66BFBF, #159A9C);
+    background-image: -o-linear-gradient(top, #66BFBF, #159A9C);
+    background-image: linear-gradient(to bottom, #66BFBF, #159A9C);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #DEEFE7;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: relative;
+    top: 2.8rem;
+    left: 2rem;
+}
+
+.btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+
+.bottom-container {
+    background-color: #11999E;
+    padding-bottom: 2%;
+    padding-left: 5%;
+
+}
+
+
+
+.linkedin-img {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 30rem;
+    top: 2rem;
+}
+
+.twitter-img {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 32rem;
+    top: 2rem;
+
+}
+
+.instagram-img {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 34rem;
+    top: 2rem;
+
+}
+
+.copyright {
+    position: relative;
+    left: 75%;
+    bottom: -1rem;
+}
