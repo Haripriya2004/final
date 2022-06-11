@@ -220,3 +220,7 @@ h2 {
     left: 75%;
     bottom: -1rem;
 }
+
+a{
+    text-decoration:none;
+}
